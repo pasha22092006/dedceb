@@ -1,2 +1,3 @@
 # dedceb
-For dedceb purpose
+Описание проекта:
+...
